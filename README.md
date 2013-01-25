@@ -20,7 +20,7 @@ From the command line type:
 
     $ git clone https://github.com/jclosure/solverforge.git'
 
-And then type (note all commands below assume you are in the prescreen directory):
+And then type (note all commands below assume you are in the solverforge directory):
 
     $ cd solverforge
 
