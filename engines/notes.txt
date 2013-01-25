@@ -1,0 +1,1 @@
+This is the top-level directory for the solver code.  It may be a good strategy to organize them into folders, etc..
